@@ -16,9 +16,20 @@ state을 정의할 때 state끼리 항등식이 되지 않도록 주의해야 �
 
 ![image](https://github.com/ji-pooh/5-/assets/144295694/9fb7d265-14dc-4e71-b90c-9b890c4847d6)
 
-### Example  
----  
-* spring-mass-damper system
+### state space equation  
 
-![image](https://github.com/ji-pooh/5-/assets/144295694/0ac96b33-8d30-42f4-8a1d-2d3ff8b11977)
-$
+---   
+* 1st order state differential equation
+  
+![image](https://github.com/ji-pooh/Week-5-Tasks/assets/144295694/f081fc73-c64a-49a4-b1f4-f16512b1e43c)   
+
+* n-th order state differential equation(state vector)
+
+![image](https://github.com/ji-pooh/Week-5-Tasks/assets/144295694/5df853b8-a7bc-47dc-9aa0-d9c3fd701d55)
+
+### summary  
+---  
+* state는 system 내부 상태
+* state 정의 > system 수식에 의미를 부여할 수 있다.
+* 다차 미분 방정식 > 1차 행렬 미분장정식
+* 1차 행렬 미분 방정식은 컴퓨터가 쉽게 해결한다.
