@@ -18,4 +18,7 @@ state을 정의할 때 state끼리 항등식이 되지 않도록 주의해야 �
 
 ### Example  
 ---  
+* spring-mass-damper system
 
+![image](https://github.com/ji-pooh/5-/assets/144295694/0ac96b33-8d30-42f4-8a1d-2d3ff8b11977)
+$
